@@ -1,2 +1,2 @@
 # android_notepad
-Это учебный проект, который я выложил с целью взятия его за основу в будущих своих проектах.
+This is a tutorial project that I posted with the goal of taking it as a basis for my future projects.
